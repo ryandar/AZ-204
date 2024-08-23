@@ -13,12 +13,12 @@
 1. Develop for Azure storage
 
    - [Blob Storage](./Topics/Blob%20Storage.md)
-   - [CosmoDB](./Topics/CosmoDB.md)
+   - [Cosmos DB](./Topics/Cosmos%20DB.md)
 
 1. Implement Azure security
 
    - [Managed Identities](./Topics/Managed%20Identities.md)
-   - [Active Directory](./Topics/Active%20Directory.md)
+   - [Entra ID](./Topics/Entra%20ID.md)
    - [Key Vault](./Topics/Key%20Vault.md)
    - [App Configuration](./Topics/App%20Configuration.md)
    - [Graph](./Topics/Graph.md)
